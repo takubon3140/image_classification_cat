@@ -1,0 +1,2 @@
+# image_classification_cat
+猫の画像かどうかを判定するライブラリ
